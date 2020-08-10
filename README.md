@@ -1,4 +1,4 @@
-### Welcome 👋
+### Welcome! 🥂
 <center>
 <table>
   <tr>
@@ -7,3 +7,22 @@
   </tr>  
 </table>
 </center>
+
+##### About Me:
+- 🎓 System Analysis & Development graduate from Unipar - Universidade Paranaense
+- :test_tube: Currently studying Angular JS, Bootstrap and MongoDB
+- 🪐 Looking forward to news about front-end technologies
+- :speech_balloon: Ask me about Schedule Management, Time Control, Marketing, Design or literally anything!
+
+##### Languages I use:
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+
+##### Technologies I have worked with:
+![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
+![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
+
+##### Favorite open source projects:
+[![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
