@@ -1,7 +1,7 @@
 ### Welcome! 🧿
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielllcunha/)](https://www.linkedin.com/in/gabrielllcunha/)
-[![Stackoverflow Badge](https://img.shields.io/badge/-StackOverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/)](https://stackoverflow.com/users/)
+[![Stackoverflow Badge](https://img.shields.io/badge/-StackOverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/14464501/gabriel-cunha)](https://stackoverflow.com/users/14464501/gabriel-cunha)
 [![Gmail Badge](https://img.shields.io/badge/-gabrielcunhasantos01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielcunhasantos01@gmail.com)](mailto:gabrielcunhasantos01@gmail.com)
 [![Codewars Badge](https://www.codewars.com/users/gabrielllcunha/badges/micro)](https://www.codewars.com/users/gabrielllcunha/badges/micro)
 
