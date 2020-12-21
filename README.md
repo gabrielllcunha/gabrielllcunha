@@ -16,7 +16,7 @@
 
 ##### About Me:
 - 🎓 System Analysis & Development graduate from Unipar - Universidade Paranaense
-- :test_tube: Currently studying Angular JS, Bootstrap and MongoDB
+- :test_tube: Currently studying Angular and React
 - 🪐 Looking forward to news about front-end technologies
 - :speech_balloon: Ask me about Schedule Management, Time Control, Marketing, Design or literally anything!
 
@@ -33,6 +33,7 @@
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/-Flutter-222222?style=flat&logo=flutter&logoColor=61DAFB)
 ![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
+![Figma](https://img.shields.io/badge/-Figma-222222?style=flat&logo=figma&logoColor=E04A34)
 
 ##### Favorite open source projects:
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
