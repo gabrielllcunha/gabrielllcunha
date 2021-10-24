@@ -5,14 +5,20 @@
 [![Gmail Badge](https://img.shields.io/badge/-gabrielcunhasantos01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielcunhasantos01@gmail.com)](mailto:gabrielcunhasantos01@gmail.com)
 [![Codewars Badge](https://www.codewars.com/users/gabrielllcunha/badges/micro)](https://www.codewars.com/users/gabrielllcunha/badges/micro)
 
-<center>
-<table>
-  <tr>
-      <td><img width="375px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielllcunha&hide=html&layout=compact&theme=monokai" /></td>
-      <td><img width="375px" align="left" src="https://github-readme-stats.vercel.app/api?username=gabrielllcunha&theme=monokai" /></td>
-  </tr>  
-</table>
-</center>
+<p align="justify">
+  <a>
+    <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielllcunha&hide=html&layout=compact&theme=monokai"
+    />
+  </a>
+  <a>
+    <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api?username=gabrielllcunha&theme=monokai"
+    /> 
+  </a>
+</p>
 
 ##### About Me:
 - 🎓 System Analysis & Development graduate from Unipar - Universidade Paranaense
