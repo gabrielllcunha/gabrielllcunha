@@ -22,7 +22,7 @@
 
 ##### About Me:
 - 🎓 System Analysis & Development graduate from Unipar - Universidade Paranaense
-- :test_tube: Currently studying ReactJS and React Native
+- :test_tube: Currently studying ReactJS and Gatsby
 - 🪐 Looking forward to news about front-end technologies
 - :speech_balloon: Ask me about Schedule Management, Time Control, Marketing, Design or literally anything!
 
