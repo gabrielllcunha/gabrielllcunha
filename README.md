@@ -36,10 +36,10 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" alt="Gatsby"/></code>
 
 ##### Utilities:
-<code><img height="32" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="Postman"/></code>
+<code><img height="32" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/insomnia-icon.png" alt="Insomnia"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/figma-1693589-1442630.png" alt="Figma"/></code>
 
 ##### DevOps:
